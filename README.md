@@ -43,30 +43,26 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 
 # Sprint 1
 
-- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint 1 Daily Scrum Chats]
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/80725e25-c63f-4ab5-9490-f51c0cb9b286)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ae9078e7-3626-4111-81ba-788e07c750c0)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
 
 - **Sprint Retrospective:**
-  - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
-  - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
- 
-
+  - Oyun hikayesi yazılmıştır ve sprint1 ve sprint2'de tamamlanması gereken mekanikler ile ilgili kaynaklar belirlenmiştir.
+  - Takım içindeki görev dağılımları sınav takvimlerine göre sprintlere paylaştırılmıştır.
 
 ---
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+
 
 ---
 
