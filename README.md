@@ -43,22 +43,15 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
-
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+- ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ae9078e7-3626-4111-81ba-788e07c750c0)
+
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
 
