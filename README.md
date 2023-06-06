@@ -11,9 +11,9 @@ Takım Unity 48
 - Meltem Külcü: Developer
 - Meltehan Uğuş: Developer
 
-## Doom Svalbard
+## Svalbardoom
 
---Doom Svalbard--
+--Svalbardoom--
 
 ## Product Backlog URL [ https://www.notion.so/66f13d8b6b1442969d080d0dc04c403d?v=252cbe7374d249f888816e552583b167&pvs=4 ]
 
@@ -35,9 +35,6 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 - 13-30 
 
 ## Juriye Not
-
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
-
 
 ---
 
