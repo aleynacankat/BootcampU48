@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -6,6 +7,7 @@ public class PlayerAleyna : MonoBehaviour
 {
 
     public float moveSpeed = 7f;
+    public Inventory inventory;
 
     private void Update()
     {
@@ -33,7 +35,18 @@ public class PlayerAleyna : MonoBehaviour
         Vector3 moveDir = new Vector3(inputVector.x, 0f, inputVector.y);
         transform.position += moveDir * moveSpeed *Time.deltaTime;
 
+        
 
-        Debug.Log(Time.deltaTime);
+    }
+
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+
+        IInventoryItem item = hit.collider.GetComponent<IInventoryItem>();
+        if (item != null)
+        {
+            inventory.AddItem(item);
+        }
+
     }
 }
