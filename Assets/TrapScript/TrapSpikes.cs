@@ -14,6 +14,11 @@ namespace Roundbeargames
             ListCharactres.Clear();
         }
 
+        public static bool IsTrap()
+        {
+            
+        }
+
         private void OnTriggerEnter(Collider other)
         {
             CharacterController control = other.gameObject.transform.root.gameObject.GetComponent<CharacterController>();
@@ -25,7 +30,7 @@ namespace Roundbeargames
                 }
             }
         }
-
+        
         private void OnTriggerExit(Collider other)
         {
             CharacterController control = other.gameObject.transform.root.gameObject.GetComponent<CharacterController>();
