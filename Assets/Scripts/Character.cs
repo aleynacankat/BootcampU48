@@ -28,6 +28,8 @@ public class Character : MonoBehaviour
     public LandingState landing;
     public SprintState sprinting;
     public SprintJumpState sprintjumping;
+    public CombatState combatting;
+    public AttackState attacking;
  
     [HideInInspector]
     public float gravityValue = -9.81f;
@@ -60,6 +62,8 @@ public class Character : MonoBehaviour
         landing = new LandingState(this, movementSM);
         sprinting = new SprintState(this, movementSM);
         sprintjumping = new SprintJumpState(this, movementSM);
+        combatting = new CombatState(this, movementSM);
+        attacking = new AttackState(this, movementSM);
  
         movementSM.Initialize(standing);
  
