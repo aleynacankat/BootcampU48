@@ -5,11 +5,11 @@ using UnityEngine.UI;
 
 public class HUD : MonoBehaviour
 {
-    [SerializeField] Inventory Inventory;
+    public Inventory Inventory;
 
     //Using this for initialization
 
-    void Start()
+    void Start ()
     {
         Inventory.ItemAdded += InventoryScript_ItemAdded;
     }
@@ -27,7 +27,7 @@ public class HUD : MonoBehaviour
             {
                 image.enabled = true;
                 image.sprite = e.Item.Image;
-
+                 
                 //ToDO: Store a reference to the item
 
                 break;
