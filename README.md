@@ -22,13 +22,13 @@ Takım Unity 48
 Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması gerekmektedir.
 
 
-- **Oyun birincil fonksiyonu**: 
+- **Oyun birincil fonksiyonu**: Düşmanlardan kurtulup, tohumun leveldan alınması.
 
-- **Oyun ikincil fonksiyonu**: 
+- **Oyun ikincil fonksiyonu**: Tuzaklara yakalanmadan puzzleları çözmek.
 
 ## Oyunun Özellikleri
 
-- RPG elementlerini birleştiren, 3D  kamera açısından oynanan bir oyundur. Oyuncu kendilerini ayrıntılı bir dünyada bulacaklar ve hayatta kalmak için canavarlarla savaşacak, karakterlerini geliştirecek ve bulacağı ödüller sayesinde çok özel ödülleri alabilecek.
+- RPG elementlerini birleştiren, 3D  kamera açısından oynanan bir oyundur. Oyuncu kendisini sonu gelmiş bir dünyada bulacaktır ve hayatta kalmak için canavarlarla savaşıp, tuzaklara yakalanmadan puzzleları çözecektir. Bulacağı tohumlar sayesinde Svalbard'ı kurtarmış olacaktır.
 
 ## Hedef Kitle
 
@@ -44,9 +44,17 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/4e02d603-ecde-4fed-a787-62f8b2a55c01)
+
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/c895727e-4df3-4aaf-9866-38612149c6ab)
+
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/89868a80-71dc-4067-95c0-63d402a1fdbe)
+
+
 
 - **Sprint Review**: 
 Alınan kararlar: Sprint görevleri sınav haftası olanlar ve bu sprintte daha aktif olan kişilere göre paylaştırılmıştır. Teknik kısımda ürünü biraz ortaya konması sonucunda neler yapılabileceği ile ilgili daha kapsamlı toplantı yapılarak 2. Sprint ihtiyaçları konuşulmuştur.
+
 Sprint Review katılımcıları: Alewyna Cankat(Developer,Level Design), Emirhan Topal(Developer), Veli Aliyev (Developer), Meltem Külcü (Fikir aşamsında katkılar), Meltehan Uğuş: Developer (Fikir aşamasında katkılar)
 
 - **Sprint Retrospective:**
