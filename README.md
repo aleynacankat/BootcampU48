@@ -40,7 +40,8 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/80725e25-c63f-4ab5-9490-f51c0cb9b286)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/eafd868d-398f-43a7-8482-654b257779b0)
+
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
