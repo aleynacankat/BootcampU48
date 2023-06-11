@@ -11,13 +11,16 @@ public class InventorySlot_UI : MonoBehaviour
     private Button button;
 
     public InventorySlot AssignedInventorySlot => assignedInventorySlot;
+    public InventoryDisplay ParentDisplay { get; private set; }
 
     private void Awake()
     {
         ClearSlot();
 
-        button.GetComponent<Button>();
+        button=GetComponent<Button>();
         button?.onClick.AddListener(OnUISlotClick);
+
+        ParentDisplay = transform.parent.GetComponent<InventoryDisplay>();
     }
 
     public void Init(InventorySlot slot)
@@ -60,6 +63,6 @@ public class InventorySlot_UI : MonoBehaviour
 
     public void OnUISlotClick()
     {
-        //Access display class function
+        ParentDisplay?.SlotClicked(this);
     }
 }
