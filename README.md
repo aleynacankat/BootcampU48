@@ -28,19 +28,16 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 
 ## Oyunun Özellikleri
 
-- RPG elementlerini birleştiren, 3D  kamera açısından oynanan bir oyundur. Oyuncular kendilerini ayrıntılı bir dünyada bulacaklar ve hayatta kalmak için canavarlarla savaşacak, karakterlerini geliştirecek ve bulacağı ödüller sayesinde çok özel ödülleri alabilecek.
+- RPG elementlerini birleştiren, 3D  kamera açısından oynanan bir oyundur. Oyuncu kendilerini ayrıntılı bir dünyada bulacaklar ve hayatta kalmak için canavarlarla savaşacak, karakterlerini geliştirecek ve bulacağı ödüller sayesinde çok özel ödülleri alabilecek.
 
 ## Hedef Kitle
 
 - 13-30 
 
-## Juriye Not
-
----
-
 # Sprint 1
 
-- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint 1 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint 1 Daily Scrum Chats][WhatsApp_Chat_-_Bootcamp___U48.zip](https://github.com/aleynacankat/BootcampU48/files/11715416/WhatsApp_Chat_-_Bootcamp___U48.zip)
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/80725e25-c63f-4ab5-9490-f51c0cb9b286)
@@ -49,7 +46,8 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 - **Ürün Durumu**: Ekran görüntüleri:
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+Alınan kararlar: Sprint görevleri sınav haftası olanlar ve bu sprintte daha aktif olan kişilere göre paylaştırılmıştır. Teknik kısımda ürünü biraz ortaya konması sonucunda neler yapılabileceği ile ilgili daha kapsamlı toplantı yapılarak 2. Sprint ihtiyaçları konuşulmuştur.
+Sprint Review katılımcıları: Alewyna Cankat(Developer,Level Design), Emirhan Topal(Developer), Veli Aliyev (Developer), Meltem Külcü (Fikir aşamsında katkılar), Meltehan Uğuş: Developer (Fikir aşamasında katkılar)
 
 - **Sprint Retrospective:**
   - Oyun hikayesi yazılmıştır ve sprint1 ve sprint2'de tamamlanması gereken mekanikler ile ilgili kaynaklar belirlenmiştir.
