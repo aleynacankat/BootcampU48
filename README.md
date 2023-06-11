@@ -56,7 +56,7 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 - **Sprint Review**: 
 Alınan kararlar: Sprint görevleri sınav haftası olanlar ve bu sprintte daha aktif olan kişilere göre paylaştırılmıştır. Teknik kısımda ürünü biraz ortaya konması sonucunda neler yapılabileceği ile ilgili daha kapsamlı toplantı yapılarak 2. Sprint ihtiyaçları konuşulmuştur.
 
-Sprint Review katılımcıları: Alewyna Cankat(Developer,Level Design), Emirhan Topal(Developer), Veli Aliyev (Developer), Meltem Külcü (Fikir aşamsında katkılar), Meltehan Uğuş: Developer (Fikir aşamasında katkılar)
+Sprint Review katılımcıları: Aleyna Cankat(Developer,Level Design), Emirhan Topal(Developer), Veli Aliyev (Developer), Meltem Külcü (Fikir aşamsında katkılar), Meltehan Uğuş: Developer (Fikir aşamasında katkılar)
 
 - **Sprint Retrospective:**
   - Oyun hikayesi yazılmıştır ve sprint1 ve sprint2'de tamamlanması gereken mekanikler ile ilgili kaynaklar belirlenmiştir.
