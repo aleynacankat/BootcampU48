@@ -12,8 +12,8 @@ public class InventorySystem
 
     private int inventorySize;
 
-    public List<InventorySlot> InventorySlot => inventorySlots;
-    public int InventorySize => inventorySlots.Count;
+    public List<InventorySlot> InventorySlots => inventorySlots;
+    public int InventorySize => InventorySlots.Count;
 
     public UnityAction<InventorySlot> OnInventorySlotChanged;
 
@@ -42,7 +42,8 @@ public class InventorySystem
             }
 
         }
-        else if (HasFreeSlot(out InventorySlot freeSlot)) //Gets the first available available slot
+
+        if (HasFreeSlot(out InventorySlot freeSlot)) //Gets the first available available slot
         {
             freeSlot.UpdateInventorySlot(itemToAdd, amountToAdd);
             OnInventorySlotChanged?.Invoke(freeSlot);
@@ -54,14 +55,14 @@ public class InventorySystem
 
     public bool ContainsItem(InventoryItemData itemToAdd, out List<InventorySlot> invSlot)
     {
-        invSlot = inventorySlots.Where(i => i.ItemData == itemToAdd).ToList();
-
-        return invSlot.Count > 1 ? true : false;
+        invSlot = InventorySlots.Where(i => i.ItemData == itemToAdd).ToList();
+        Debug.Log(invSlot.Count);
+        return invSlot == null ? false : true;
     }
 
     public bool HasFreeSlot(out InventorySlot freeSlot)
     {
-        freeSlot = null;
-        return false;
+        freeSlot = InventorySlots.FirstOrDefault(i => i.ItemData == null);
+        return freeSlot == null ? false : true;
     }
 }
