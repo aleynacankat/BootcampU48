@@ -88,10 +88,12 @@ Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodl
 Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
 
 - **Sprint Retrospective:**
-
-  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
-
-
+Karakter, karakter hareketleri, combat animasyonları eklendi.
+Animasyonlu Play ekranı oluşturuldu.
+Kılıç modeli eklenip, renklendirilip karaktere entegre edildi.
+0Main Level, 01Svalbard Level designları yapıldı.
+Interactable Item karaktere entegre edildi.
+Envanter sistemi taslakları hazırlandı.
 ---
 
 ## Product Backlog URL
