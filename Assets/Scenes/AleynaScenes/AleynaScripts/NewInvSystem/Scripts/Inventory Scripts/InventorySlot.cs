@@ -6,8 +6,8 @@ using UnityEngine;
 
 public class InventorySlot
 {
-    [SerializeField] private InventoryItemData itemData;
-    [SerializeField] private int stackSize;
+    [SerializeField] private InventoryItemData itemData; //Reference to the data
+    [SerializeField] private int stackSize; //Current stack size how many data do we have
 
     public InventoryItemData ItemData => itemData;
     public int StackSize => stackSize;
@@ -20,7 +20,7 @@ public class InventorySlot
 
 
 
-    public InventorySlot()
+    public InventorySlot() //Constructer to make an empty inventory slot
     {
         ClearSlot();
     }
@@ -31,7 +31,7 @@ public class InventorySlot
         stackSize = -1;
     }
 
-    public void AssignItem(InventorySlot invSlot)
+    public void AssignItem(InventorySlot invSlot) //Assign an item to the slot 
     {
         if (itemData == invSlot.ItemData) AddToStack(invSlot.stackSize);
         else
@@ -71,5 +71,20 @@ public class InventorySlot
     public void RemoveFromStack(int amount)
     {
         stackSize -= amount;
+    }
+
+    public bool SplitStack(out InventorySlot splitStack)
+    {
+        if (stackSize <= 1)
+        {
+            splitStack = null;
+            return false;
+
+        }
+        int halfStack = Mathf.RoundToInt(stackSize / 2);
+        RemoveFromStack(halfStack);
+
+        splitStack = new InventorySlot(itemData, halfStack);
+        return true;
     }
 }

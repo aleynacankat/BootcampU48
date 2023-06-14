@@ -58,7 +58,7 @@ Alınan kararlar: Sprint görevleri sınav haftası olanlar ve bu sprintte daha 
 
 Sprint Review katılımcıları: Aleyna Cankat(Developer,Level Design), Emirhan Topal(Developer), Veli Aliyev (Developer), Meltem Külcü (Fikir aşamsında katkılar), Meltehan Uğuş: Developer (Fikir aşamasında katkılar)
 
-- **Sprint Retrospective:**
+- **Sprint Retrospersctive:**
   - Oyun hikayesi yazılmıştır ve sprint1 ve sprint2'de tamamlanması gereken mekanikler ile ilgili kaynaklar belirlenmiştir.
   - Takım içindeki görev dağılımları sınav takvimlerine göre sprintlere paylaştırılmıştır.
 
