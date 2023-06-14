@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -15,26 +16,23 @@ public class EnemyDamageDealer : MonoBehaviour
         hasDealtDamage = false;
     }
  
-    // Update is called once per frame
+    
     void Update()
     {
         if (canDealDamage && !hasDealtDamage)
         {
             RaycastHit hit;
- 
+            
             int layerMask = 1 << 8;
             if (Physics.Raycast(transform.position, -transform.up, out hit, weaponLength, layerMask))
             {
-                if (hit.transform.TryGetComponent(out HealthSystem health))
-                {
-                     print("enemy has dealt damage");
-                     health.TakeDamage(weaponDamage);
-                     hasDealtDamage = true;
-                }
-                
+                Debug.Log("as");
+                hasDealtDamage = true;
             }
         }
     }
+
+   
     public void StartDealDamage()
     {
         canDealDamage = true;
@@ -49,5 +47,6 @@ public class EnemyDamageDealer : MonoBehaviour
     {
         Gizmos.color = Color.yellow;
         Gizmos.DrawLine(transform.position, transform.position - transform.up * weaponLength);
+        
     }
 }

@@ -50,6 +50,10 @@ public class Enemy : MonoBehaviour
         transform.LookAt(player.transform);
     }
     
+    void Die()
+    {
+        Destroy(this.gameObject);
+    }
     
     public void TakeDamage(float damageAmount)
     {
@@ -61,12 +65,6 @@ public class Enemy : MonoBehaviour
             Die();
         }
     }
-
-    void Die()
-    {
-        Destroy(this.gameObject);
-    }
-    
     public void StartDealDamage()
     {
         GetComponentInChildren<EnemyDamageDealer>().StartDealDamage();
@@ -76,7 +74,6 @@ public class Enemy : MonoBehaviour
     {
         GetComponentInChildren<EnemyDamageDealer>().EndDealDamage();
     }
-    
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
