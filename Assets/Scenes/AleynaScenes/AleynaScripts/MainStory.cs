@@ -8,7 +8,7 @@ public class MainStory : MonoBehaviour
     void OnEnable()
     {
         //Only specifiying the sceneName or sceneBuildIndex will load the Scene with the Single mode
-        SceneManager.LoadScene("Intro", LoadSceneMode.Single);
+        SceneManager.LoadScene("2Base", LoadSceneMode.Single);
     }
 
 }
