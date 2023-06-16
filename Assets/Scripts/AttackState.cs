@@ -43,7 +43,7 @@ public class AttackState : State
         base.LogicUpdate();
 
         timePassed = timePassed + Time.deltaTime; //timePassed += Time.deltaTime
-        clipLenght = character.animator.GetCurrentAnimatorClipInfo(1)[0].clip.length;
+        //clipLenght = character.animator.GetCurrentAnimatorClipInfo(1)[0].clip.length;
         clipSpeed = character.animator.GetCurrentAnimatorStateInfo(1).speed;
 
         if (timePassed >= clipLenght / clipSpeed && attack)

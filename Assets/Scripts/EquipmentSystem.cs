@@ -14,24 +14,24 @@ public class EquipmentSystem : MonoBehaviour
 
     private void Start()
     {
-        currentWeaponInSheath = Instantiate(weapon, weaponSheath.transform);
+        //currentWeaponInSheath = Instantiate(weapon, weaponSheath.transform);
     }
 
     public void DrawWeapon()
     {
-        currentWeaponInHand = Instantiate(weapon, weaponHolder.transform);
-        Destroy(currentWeaponInSheath);
+        //currentWeaponInHand = Instantiate(weapon, weaponHolder.transform);
+        //Destroy(currentWeaponInSheath);
     }
 
     public void SheatWeapon()
     {
-        currentWeaponInSheath = Instantiate(weapon, weaponSheath.transform);
-        Destroy(currentWeaponInHand);
+        //currentWeaponInSheath = Instantiate(weapon, weaponSheath.transform);
+        //Destroy(currentWeaponInHand);
     }
 
     public void StartDealDamage()
     {
-        currentWeaponInHand.GetComponentInChildren<DamageDealer>().StartDealDamage();
+        //currentWeaponInHand.GetComponentInChildren<DamageDealer>().StartDealDamage();
     }
 
     public void EndDealDamage()
