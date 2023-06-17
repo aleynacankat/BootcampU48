@@ -27,6 +27,7 @@ public class DamageDealer : MonoBehaviour
                 {
                     print("sa");
                     enemy.TakeDamage(weaponDamage);
+                    enemy.hitparticle(hit.point);
                     hasDealtDamage.Add(hit.transform.gameObject);
                 }
             }
