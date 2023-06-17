@@ -2,16 +2,26 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PT_Armors_Material
   m_Shader: {fileID: 4800000, guid: 66cf399cd52203c4685e11681d535f09, type: 3}
-  m_ShaderKeywords: BOOLEAN_DB96F4EA_ON _CAPE_KEY1 _FLATCOLORS_ON _GLOSSYREFLECTIONS_OFF
-    _KEYWORD0_ON _METALICOFF_ON _METALICON_ON _SMOOTHNESSOFF_ON _SMOOTHNESSON_ON
-    _SPECULARHIGHLIGHTS_OFF _TOGGLESWITCH0_ON _TOGGLESWITCH1_ON
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - BOOLEAN_DB96F4EA_ON
+  - _CAPE_KEY1
+  - _FLATCOLORS_ON
+  - _GLOSSYREFLECTIONS_OFF
+  - _KEYWORD0_ON
+  - _METALICOFF_ON
+  - _METALICON_ON
+  - _SMOOTHNESSOFF_ON
+  - _SMOOTHNESSON_ON
+  - _TOGGLESWITCH0_ON
+  - _TOGGLESWITCH1_ON
   m_LightmapFlags: 1
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -65,8 +75,11 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
+    - _AlphaCutoff: 0.5
     - _EYESSMOOTHNESS: 0.7
+    - _EnvironmentReflections: 1
     - _GEMS1SMOOTHNESS: 1
     - _GEMS2SMOOTHNESS: 0
     - _GEMS3SMOOTHNESS: 0
@@ -83,10 +96,12 @@ Material:
     - _METAL3SMOOTHNESS: 0.7
     - _MetalicOn: 1
     - _OCCLUSION: 0.5
+    - _ReceiveShadows: 1
     - _SCARSSMOOTHNESS: 0.3
     - _SCLERASMOOTHNESS: 0.5
     - _SKINSMOOTHNESS: 0.3
     - _SmoothnessOn: 1
+    - _SpecularHighlights: 1
     - __dirty: 1
     m_Colors:
     - _CLOTH1COLOR: {r: 0.1465379, g: 0.282117, b: 0.3490566, a: 0}
@@ -94,6 +109,7 @@ Material:
     - _CLOTH3COLOR: {r: 0.8773585, g: 0.6337318, b: 0.3434941, a: 0}
     - _COATOFARMSCOLOR: {r: 1, g: 0, b: 0, a: 0}
     - _EYESCOLOR: {r: 0.0734529, g: 0.1320755, b: 0.05046281, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FEATHERS1COLOR: {r: 0.7735849, g: 0.492613, b: 0.492613, a: 0}
     - _FEATHERS2COLOR: {r: 0.6792453, g: 0, b: 0, a: 0}
     - _FEATHERS3COLOR: {r: 0, g: 0.1793142, b: 0.7264151, a: 0}

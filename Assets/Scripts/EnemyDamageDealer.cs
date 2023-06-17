@@ -7,9 +7,13 @@ public class EnemyDamageDealer : MonoBehaviour
 {
     bool canDealDamage;
     bool hasDealtDamage;
- 
+
+    private HealthSystem _HealthSystem;
+    
+    public LayerMask _LayerMask;
+    
     [SerializeField] float weaponLength;
-    [SerializeField] float weaponDamage;
+    [SerializeField] int weaponDamage;
     void Start()
     {
         canDealDamage = false;
@@ -23,11 +27,15 @@ public class EnemyDamageDealer : MonoBehaviour
         {
             RaycastHit hit;
             
-            int layerMask = 1 << 8;
-            if (Physics.Raycast(transform.position, -transform.up, out hit, weaponLength, layerMask))
+            if (Physics.Raycast(transform.position, -transform.up, out hit, weaponLength, _LayerMask))
             {
-                Debug.Log("as");
-                hasDealtDamage = true;
+                if (hit.transform.TryGetComponent(out HealthSystem health))
+                {
+                    health.TakeDamage(weaponDamage);
+                    Debug.Log("as");
+                    hasDealtDamage = true;
+                }
+                
             }
         }
     }

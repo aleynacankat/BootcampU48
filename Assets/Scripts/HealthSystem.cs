@@ -20,14 +20,7 @@ public class HealthSystem : MonoBehaviour
         currentHealth = maxHealth;  
         
     }
-
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.T))
-        {
-            TakeDamage(20);
-        }
-    }
+    
 
     public void TakeDamage(int damageAmount)
     {
