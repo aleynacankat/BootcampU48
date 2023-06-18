@@ -26,7 +26,7 @@ Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kada
 ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/6d5c9ab3-de05-4337-9d22-1e016942e7e1)
 
 
-Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması gerekmektedir.
+Dünyanın sonu gelmiştir ve gelecekte olduğumuz dünyada geçmişteki noktalardan tohumlar toplanır ve Svalbardı kurtarmaya çalışılır.
 
 
 - **Oyun birincil fonksiyonu**: Tuzaklara yakalanmadan puzzleları çözmek.
