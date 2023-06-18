@@ -17,7 +17,7 @@ Takım Unity 48
 
 ## Product Backlog URL [ https://www.notion.so/66f13d8b6b1442969d080d0dc04c403d?v=252cbe7374d249f888816e552583b167&pvs=4 ]
 
-**Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+**Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan (20 task için planlanan puan)
 
 ## Ürün Açıklaması
 
@@ -69,5 +69,5 @@ Sprint Review katılımcıları: Aleyna Cankat(Developer,Level Design), Emirhan 
   - 0Main Level, 01Svalbard Level designları yapıldı.
   - Interactable Item karaktere entegre edildi.
   - Envanter sistemi taslakları hazırlandı.
-
+**Sprint içinde tamamlanan puan**: Tüm taskler tamamlanmıştır
 ---
