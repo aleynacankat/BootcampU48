@@ -38,7 +38,8 @@ Dünyanın sonu gelmiştir ve tek umut olan Svalbard Tohum Deposunu korunması g
 
 # Sprint 1
 
-- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint 1 Daily Scrum Chats][WhatsApp_Chat_-_Bootcamp___U48.zip](https://github.com/aleynacankat/BootcampU48/files/11715416/WhatsApp_Chat_-_Bootcamp___U48.zip)
+- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprin1 Günlük Whatsapp Konuşmaları [WhatsApp Chat - Bootcamp _ U48.zip])(https://github.com/aleynacankat/BootcampU48/files/11782238/WhatsApp.Chat.-.Bootcamp._.U48.zip)
+](https://github.com/aleynacankat/BootcampU48/files/11715416/WhatsApp_Chat_-_Bootcamp___U48.zip)
 
 
 - **Sprint board update**: Sprint board screenshotları: 
