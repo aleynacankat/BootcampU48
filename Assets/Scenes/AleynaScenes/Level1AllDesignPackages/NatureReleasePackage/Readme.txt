@@ -1,0 +1,1 @@
+Any object that does not have a texture named after it uses the Texture.png image.
