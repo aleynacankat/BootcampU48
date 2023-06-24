@@ -5,12 +5,12 @@ using UnityEngine;
 
 public class GravityGunScript : MonoBehaviour
 {
+    [SerializeField] private Animator _animator;
+    
     public Transform floatPoint;
     public float launchSpeed;
 
     public Transform targetRange;
-
-    private Camera cam;
 
     private GameObject target;
     private Rigidbody targetRig;
@@ -20,18 +20,21 @@ public class GravityGunScript : MonoBehaviour
     private bool isAttracting;
     private bool isLaunching;
     
-    void Start()
-    {
-        cam = Camera.main;
-    }
-
     private void Update()
     {
         //Attract Input
         if (Input.GetKeyDown(KeyCode.Q))
+        {
             isAttracting = true;
+            _animator.SetTrigger("mage1");
+        }
+        
         else if (Input.GetKeyUp(KeyCode.Q))
+        {
             isAttracting = false;
+            _animator.SetTrigger("mage1End");
+        }
+        
         
         //Throw with rab;
         if (isAttracting)
@@ -39,6 +42,7 @@ public class GravityGunScript : MonoBehaviour
             if(Input.GetKeyDown(KeyCode.E))
             {
                 isLaunching = true;
+                _animator.SetTrigger("mage2");
             }
         }
     }
