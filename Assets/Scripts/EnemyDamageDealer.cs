@@ -32,8 +32,10 @@ public class EnemyDamageDealer : MonoBehaviour
                 if (hit.transform.TryGetComponent(out HealthSystem health))
                 {
                     health.TakeDamage(weaponDamage);
+                    health.hitparticle(hit.point);
                     Debug.Log("as");
                     hasDealtDamage = true;
+                    
                 }
                 
             }

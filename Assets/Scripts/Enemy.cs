@@ -7,6 +7,8 @@ using UnityEngine.AI;
 public class Enemy : MonoBehaviour
 {
     [SerializeField] float health = 3;
+    [SerializeField] private GameObject hitParticle;
+    [SerializeField] private GameObject ragdoll;
     
     [Header("Combat")] 
     [SerializeField] private float attackCD = 3f;
@@ -31,6 +33,11 @@ public class Enemy : MonoBehaviour
     {
         _animator.SetFloat("speed", agent.velocity.magnitude / agent.speed);
 
+        if (player == null)
+        {
+            return;
+        }
+
         if (timePassed >= attackCD)
         {
             if (Vector3.Distance(player.transform.position,transform.position) <= attackRange)
@@ -52,6 +59,7 @@ public class Enemy : MonoBehaviour
     
     void Die()
     {
+        Instantiate(ragdoll, transform.position, transform.rotation);
         Destroy(this.gameObject);
     }
     
@@ -65,6 +73,13 @@ public class Enemy : MonoBehaviour
             Die();
         }
     }
+    
+    public void hitparticle(Vector3 hitPosition)
+    {
+        GameObject hit = Instantiate(hitParticle, hitPosition, Quaternion.identity);
+        Destroy(hit,3f);
+    }
+    
     public void StartDealDamage()
     {
         GetComponentInChildren<EnemyDamageDealer>().StartDealDamage();

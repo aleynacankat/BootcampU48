@@ -61,10 +61,10 @@ public class CombatState : State
  
         if (sheathWeapon)
         {
-            character.animator.SetTrigger("sheathWeapon");
+            character.animator.SetTrigger("sheatWeapon");
             stateMachine.ChangeState(character.standing);
         }
- 
+
         if (attack)
         {
             character.animator.SetTrigger("Attack");
