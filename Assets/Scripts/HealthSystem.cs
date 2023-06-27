@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Rendering;
 
@@ -12,7 +11,6 @@ public class HealthSystem : MonoBehaviour
     
     private Animator _animator;
     public HealthBar _healthBar;
-    [SerializeField] private GameObject hitParticle;
 
     public int currentHealth;
     private void Start()
@@ -41,11 +39,5 @@ public class HealthSystem : MonoBehaviour
     public void Die()
     {
         Destroy(this.gameObject);
-    }
-
-    public void hitparticle(Vector3 hitPosition)
-    {
-        GameObject hit = Instantiate(hitParticle, hitPosition, quaternion.identity);
-        Destroy(hit,3f);
     }
 }
