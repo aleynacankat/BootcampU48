@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028352, g: 0.22571376, b: 0.30692244, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3337,7 +3337,8 @@ GameObject:
   - component: {fileID: 1797601889}
   - component: {fileID: 1797601894}
   - component: {fileID: 1797601893}
-  m_Layer: 0
+  - component: {fileID: 1797601895}
+  m_Layer: 8
   m_Name: NPC
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3449,7 +3450,6 @@ MonoBehaviour:
   dialogue:
   - 'Hello '
   - 'Orius kos '
-  - 'Aslinda senin baban Egitmen '
   conButton: {fileID: 823605290}
   wordSpeed: 0.06
   playerIsClose: 0
@@ -3474,6 +3474,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1.9008636, y: 2, z: 1.5169157}
   m_Center: {x: -0.06902313, y: 0, z: 0.110766545}
+--- !u!114 &1797601895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797601888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6073759b3a7af364d93f264ab8354503, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prompt: "Konu\u015Fmak i\xE7in ''F'' "
 --- !u!1 &1812744309
 GameObject:
   m_ObjectHideFlags: 0
@@ -8719,7 +8732,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'ACIL SUSAM '
+  m_text: "KONU\u015EMAK \u0130\xC7\u0130N ''F''"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
   m_sharedMaterial: {fileID: 2140474, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
@@ -8746,8 +8759,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 81.7
+  m_fontSizeBase: 81.7
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -11434,7 +11447,7 @@ RectTransform:
   m_GameObject: {fileID: 4014878332923832247}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 9.896359, y: 5.157653, z: 1}
+  m_LocalScale: {x: 11.105695, y: 9.481313, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3300276186543858913}
@@ -11443,8 +11456,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 152.27, y: 454}
-  m_SizeDelta: {x: -46.7, y: 0}
+  m_AnchoredPosition: {x: -54, y: 1073}
+  m_SizeDelta: {x: 35, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &4406568815579862561
 Transform:
