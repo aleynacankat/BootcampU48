@@ -8,7 +8,7 @@ Takım "Confix" Unity 48
 - Aleyna Cankat: Scrum Master
 - Emirhan Topal: Product Owner
 - Veli Aliyev: Developer
-- Meltem Külcü: Developer
+- Meltem Külcü: Bootcampe devam etmedi
 - Meltehan Uğuş: Developer
 
 ## Svalbardoom
@@ -108,10 +108,16 @@ Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kada
 ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/8c32f211-c376-4075-aaa7-d33732d6ac89)
 
 
-- **Sprint Review**: 
-Alınan kararlar: Sprint görevleri sınav haftası olanlar ve bu sprintte daha aktif olan kişilere göre paylaştırılmıştır. Teknik kısımda ürünü biraz ortaya konması sonucunda neler yapılabileceği ile ilgili daha kapsamlı toplantı yapılarak 2. Sprint ihtiyaçları konuşulmuştur.
+- **Sprint Review**:
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ff80581e-6514-43e9-84d1-9b055f78e1ea)
 
-Sprint Review katılımcıları: Aleyna Cankat(Developer,Level Design), Emirhan Topal(Developer), Veli Aliyev (Developer), Meltem Külcü (Fikir aşamsında katkılar), Meltehan Uğuş: Developer (Fikir aşamasında katkılar)
+Alınan kararlar: Sprint1'de belirlenen hikayenin konusu oyunun akışına uyması açısından kapsamı genişletilmiştir. Bu aşamada gerekli olan Level Designlar tasarlanmış ve gerekli mekanikler 4 takım elemanına paylaştırılmıştır.
+
+Sprint Review katılımcıları: 
+Aleyna Cankat(Developer,Level Design), 
+Emirhan Topal(Developer), 
+Veli Aliyev (Developer),
+Meltehan Uğuş: (Developer)
 
 - **Sprint Retrospective:**
   - Oyun hikayesi yazılmıştır ve sprint1 ve sprint2'de tamamlanması gereken mekanikler ile ilgili kaynaklar belirlenmiştir.
