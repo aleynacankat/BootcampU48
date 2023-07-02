@@ -78,29 +78,10 @@ Sprint Review katılımcıları: Aleyna Cankat(Developer,Level Design), Emirhan 
 
 ## Product Backlog URL [ https://www.notion.so/66f13d8b6b1442969d080d0dc04c403d?v=252cbe7374d249f888816e552583b167&pvs=4 ]
 
-**Sprint içinde tamamlanması tahmin edilen puan**: (16 Puan)
+**Sprint1 içinde tamamlanması tahmin edilen puan**: (16 Puan)
 
 Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kadar ulaştık ve geriye 76 puanımız kaldı.
 
-## Ürün Açıklaması
-
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/6d5c9ab3-de05-4337-9d22-1e016942e7e1)
-
-
-Dünyanın sonu gelmiştir ve gelecekte olduğumuz dünyada geçmişteki noktalardan tohumlar toplanır ve Svalbardı kurtarmaya çalışılır.
-
-
-- **Oyun birincil fonksiyonu**: Tuzaklara yakalanmadan puzzleları çözmek.
-
-- **Oyun ikincil fonksiyonu**: Düşmanlardan kurtulup, tohumun leveldan alınması.
-
-## Oyunun Özellikleri
-
-- İzometrik  kamera açısından oynanan bir oyundur. Oyuncu kendisini sonu gelmiş bir dünyada bulacaktır ve tohumları toplamak için canavarlarla savaşıp, tuzaklara yakalanmadan puzzleları çözecektir. Bulacağı tohumlar sayesinde Svalbard'ı kurtarmış olacaktır.
-
-## Hedef Kitle
-
-- Macera oyunu seven oyunculara hitap eder.
 
 # Sprint 2
 
@@ -108,13 +89,23 @@ Dünyanın sonu gelmiştir ve gelecekte olduğumuz dünyada geçmişteki noktala
  )
 
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları:
+- **Sprint2 içinde tamamlanması tahmin edilen puan**: (50 Puan)
+- Puanlama Sistemi: 3 Sprint Toplamı 126 Puan olarak belirlenniştir. Sprint2'de 50 puanlık hedeften 47 puana ulaşılmıştır. Geriye tamamlanması gereken 55 puan kalmıştır.
 ![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
 ![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
 ![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
 
 - **Ürün Durumu**: Ekran görüntüleri:
- ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/40215b16-85f5-4101-8b63-8a53c1de44b4)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/40215b16-85f5-4101-8b63-8a53c1de44b4)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/0be06104-2160-4440-b299-6b5100b380cb)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/96fc6a3a-480d-4e6c-b248-97a1ab2621e6)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ad89c186-e387-4442-9fff-d2459024fbcf)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/da3aefe5-487a-4402-839f-54e12e0e5a50)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/2fb57367-3e82-4878-8925-5d15a36f6941)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/3aaff19b-c489-4470-b140-eafb621eddb3)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/c45450e1-614e-41a4-9839-4a608af03042)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/8c32f211-c376-4075-aaa7-d33732d6ac89)
 
 
 - **Sprint Review**: 
