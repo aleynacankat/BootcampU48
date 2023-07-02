@@ -129,5 +129,6 @@ Meltehan Uğuş: (Developer)
 - Gravity Gun yapılmıştır.
 - Ultraviyole fener karaktere eklenmiştir.
 - Puzzle konusu belirlenip, mekanik levelda düzenlenmiştir.
+  
 **Sprint içinde tamamlanan puan**: Checkpoint hariç tüm taskler tamamlanmıştır. Tamamlanamayan Task diğer sprintte yapılacağı belirlenmiştir.
 ---
