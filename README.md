@@ -23,8 +23,6 @@ Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kada
 
 ## Ürün Açıklaması
 
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/6d5c9ab3-de05-4337-9d22-1e016942e7e1)
-
 Orion, kayıp kardeşi Zodiac'ı durdurmak ve kutsal tohumları bulup Aeonis'i kurtarmak için paralel evrenlerde zorlu bir yolculuğa çıkar.
 
 - **Oyun birincil fonksiyonu**: Puzzleları çözüp, tohumları toplamak.
