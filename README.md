@@ -25,17 +25,15 @@ Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kada
 
 ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/6d5c9ab3-de05-4337-9d22-1e016942e7e1)
 
+Orion, kayıp kardeşi Zodiac'ı durdurmak ve kutsal tohumları bulup Aeonis'i kurtarmak için paralel evrenlerde zorlu bir yolculuğa çıkar.
 
-Dünyanın sonu gelmiştir ve gelecekte olduğumuz dünyada geçmişteki noktalardan tohumlar toplanır ve Svalbardı kurtarmaya çalışılır.
+- **Oyun birincil fonksiyonu**: Puzzleları çözüp, tohumları toplamak.
 
-
-- **Oyun birincil fonksiyonu**: Tuzaklara yakalanmadan puzzleları çözmek.
-
-- **Oyun ikincil fonksiyonu**: Düşmanlardan kurtulup, tohumun leveldan alınması.
+- **Oyun ikincil fonksiyonu**: Düşmanlardan kurtulmak.
 
 ## Oyunun Özellikleri
 
-- İzometrik  kamera açısından oynanan bir oyundur. Oyuncu kendisini sonu gelmiş bir dünyada bulacaktır ve tohumları toplamak için canavarlarla savaşıp, tuzaklara yakalanmadan puzzleları çözecektir. Bulacağı tohumlar sayesinde Svalbard'ı kurtarmış olacaktır.
+- İzometrik  kamera açısından oynanan bir oyundur.
 
 ## Hedef Kitle
 
