@@ -89,7 +89,7 @@ Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kada
 
 - **Sprint board update**: Sprint board screenshotları:
 - **Sprint2 içinde tamamlanması tahmin edilen puan**: (50 Puan)
-- Puanlama Sistemi: 3 Sprint Toplamı 126 Puan olarak belirlenniştir. Sprint2'de 50 puanlık hedeften 47 puana ulaşılmıştır. Geriye tamamlanması gereken 55 puan kalmıştır.
+- Puanlama Sistemi: 3 Sprint Toplamı 126 Puan olarak belirlenniştir. Sprint2'de 50 puanlık hedeften 47 puana ulaşılmıştır. Geriye tamamlanması gereken 55 puan kalmıştır. (Sprint Boardda tasklerin üzerinde görünen High: 3 Medium: 2 Low: 1 puan mantığında puanlama yapılmıştır.)
 ![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
 ![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
 ![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
