@@ -41,19 +41,22 @@ Dünyanın sonu gelmiştir ve gelecekte olduğumuz dünyada geçmişteki noktala
 
 - Macera oyunu seven oyunculara hitap eder.
 
-# Sprint 2
+# Sprint 1
 
-- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint2 Günlük Whatsapp Konuşmaları[Sprint2_WhatsApp Chat - Bootcamp _ U48.zip](https://github.com/aleynacankat/BootcampU48/files/11930089/Sprint2_WhatsApp.Chat.-.Bootcamp._.U48.zip)
- )
+- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprin1 Günlük Whatsapp Konuşmaları [WhatsApp Chat - Bootcamp _ U48.zip])(https://github.com/aleynacankat/BootcampU48/files/11782238/WhatsApp.Chat.-.Bootcamp._.U48.zip)
+](https://github.com/aleynacankat/BootcampU48/files/11715416/WhatsApp_Chat_-_Bootcamp___U48.zip)
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
-![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
-![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/eafd868d-398f-43a7-8482-654b257779b0)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/82284233-4704-40fd-989b-8d300ca3ab68)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/4e02d603-ecde-4fed-a787-62f8b2a55c01)
 
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/c895727e-4df3-4aaf-9866-38612149c6ab)
+
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/89868a80-71dc-4067-95c0-63d402a1fdbe)
 
 
 - **Sprint Review**: 
@@ -99,22 +102,19 @@ Dünyanın sonu gelmiştir ve gelecekte olduğumuz dünyada geçmişteki noktala
 
 - Macera oyunu seven oyunculara hitap eder.
 
-# Sprint 1
+# Sprint 2
 
-- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprin1 Günlük Whatsapp Konuşmaları [WhatsApp Chat - Bootcamp _ U48.zip])(https://github.com/aleynacankat/BootcampU48/files/11782238/WhatsApp.Chat.-.Bootcamp._.U48.zip)
-](https://github.com/aleynacankat/BootcampU48/files/11715416/WhatsApp_Chat_-_Bootcamp___U48.zip)
+- **Daily Scrum**: Daily Scrum toplantıları 20.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint2 Günlük Whatsapp Konuşmaları[Sprint2_WhatsApp Chat - Bootcamp _ U48.zip](https://github.com/aleynacankat/BootcampU48/files/11930089/Sprint2_WhatsApp.Chat.-.Bootcamp._.U48.zip)
+ )
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/eafd868d-398f-43a7-8482-654b257779b0)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/82284233-4704-40fd-989b-8d300ca3ab68)
+![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
+![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
+![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/4e02d603-ecde-4fed-a787-62f8b2a55c01)
-
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/c895727e-4df3-4aaf-9866-38612149c6ab)
-
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/89868a80-71dc-4067-95c0-63d402a1fdbe)
+ ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/40215b16-85f5-4101-8b63-8a53c1de44b4)
 
 
 - **Sprint Review**: 
