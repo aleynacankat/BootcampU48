@@ -19,7 +19,7 @@ Takım "Confix" Unity 48
 
 **Sprint içinde tamamlanması tahmin edilen puan**: (16 Puan)
 
-Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kadar ulaştık ve geriye 76 puanımız kaldı.
+Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kadar ulaştık ve geriye 102 puanımız kaldı.
 
 ## Ürün Açıklaması
 
