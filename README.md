@@ -120,13 +120,14 @@ Veli Aliyev (Developer),
 Meltehan Uğuş: (Developer)
 
 - **Sprint Retrospective:**
-  - Oyun hikayesi yazılmıştır ve sprint1 ve sprint2'de tamamlanması gereken mekanikler ile ilgili kaynaklar belirlenmiştir.
-  - Takım içindeki görev dağılımları sınav takvimlerine göre sprintlere paylaştırılmıştır.
-  - Karakter, karakter hareketleri, combat animasyonları eklendi.
-  - Animasyonlu Play ekranı oluşturuldu.
-  - Kılıç modeli eklenip, renklendirilip karaktere entegre edildi.
-  - 0Main Level, 01Svalbard Level designları yapıldı.
-  - Interactable Item karaktere entegre edildi.
-  - Envanter sistemi hazırlandı.
-**Sprint içinde tamamlanan puan**: Tüm taskler tamamlanmıştır
+- Oyunun hikayesi revize edilmiştir.
+- Dialog sistemi eklenmiştir.
+- Karakter kamera takibi eklenmiştir.
+- Oyunda oynanacak olan alanların Level Designı tamamlanmıştır.
+- Collectible Itemlar belirlenmiştir.
+- Şifreli Kapı sistemi yapılmıştır.
+- Gravity Gun yapılmıştır.
+- Ultraviyole fener karaktere eklenmiştir.
+- Puzzle konusu belirlenip, mekanik levelda düzenlenmiştir.
+**Sprint içinde tamamlanan puan**: Checkpoint hariç tüm taskler tamamlanmıştır. Tamamlanamayan Task diğer sprintte yapılacağı belirlenmiştir.
 ---
