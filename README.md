@@ -48,15 +48,12 @@ Dünyanın sonu gelmiştir ve gelecekte olduğumuz dünyada geçmişteki noktala
 
 
 - **Sprint board update**: Sprint board screenshotları: 
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/eafd868d-398f-43a7-8482-654b257779b0)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/82284233-4704-40fd-989b-8d300ca3ab68)
+![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
+![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
+![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/4e02d603-ecde-4fed-a787-62f8b2a55c01)
 
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/c895727e-4df3-4aaf-9866-38612149c6ab)
-
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/89868a80-71dc-4067-95c0-63d402a1fdbe)
 
 
 - **Sprint Review**: 
