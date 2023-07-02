@@ -25,7 +25,7 @@ Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kada
 
 Orion, kayıp kardeşi Zodiac'ı durdurmak ve kutsal tohumları bulup Aeonis'i kurtarmak için paralel evrenlerde zorlu bir yolculuğa çıkar.
 
-- **Oyun birincil fonksiyonu**: Puzzleları çözüp, tohumları toplamak.
+- **Oyun birincil fonksiyonu**: Puzzel çözüp, tohumları toplamak.
 
 - **Oyun ikincil fonksiyonu**: Düşmanlardan kurtulmak.
 
