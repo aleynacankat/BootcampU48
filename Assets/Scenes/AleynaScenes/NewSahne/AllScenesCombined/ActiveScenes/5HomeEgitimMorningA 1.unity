@@ -3714,8 +3714,13 @@ MonoBehaviour:
   dialoguePanel: {fileID: 11913589}
   dialogueText: {fileID: 1812744310}
   dialogue:
-  - 'Hello '
-  - 'Orius kos '
+  - "O\u011Flum ho\u015Fgeldin, ellerine sa\u011Fl\u0131k ben de kahvalt\u0131y\u0131
+    haz\u0131rlad\u0131m"
+  - "Aaa! Dedenden bana yadigar y\xFCz\xFC\u011F\xFC de bulmu\u015Fsun, her yerde
+    onu ar\u0131yordum"
+  - "Kahvalt\u0131m\u0131z\u0131 yapt\u0131ktan sonra art\u0131k e\u011Fitime gitmen
+    gerekiyor"
+  - Fazla vaktimiz yok gecikme
   conButton: {fileID: 823605290}
   wordSpeed: 0.06
   playerIsClose: 0
@@ -5954,7 +5959,7 @@ Transform:
   m_GameObject: {fileID: 8501646297923508689}
   m_LocalRotation: {x: -0, y: -0.9897643, z: -0, w: 0.14271241}
   m_LocalPosition: {x: -3.16, y: -2.3, z: 14.9}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
+  m_LocalScale: {x: 0.30525, y: 0.30525, z: 0.30525}
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5241685904592088046}
