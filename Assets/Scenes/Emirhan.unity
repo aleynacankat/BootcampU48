@@ -360,7 +360,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 35
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -957,7 +957,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1336159018}
   m_Lens:
     FieldOfView: 60
-    OrthographicSize: 10
+    OrthographicSize: 35
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -2006,6 +2006,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: iskeletAI
       objectReference: {fileID: 0}
+    - target: {fileID: 7568814296566120536, guid: af9819c89dc53024fb815f44064031a8,
+        type: 3}
+      propertyPath: ragdoll
+      value: 
+      objectReference: {fileID: 5212988954162827226, guid: cf76f16919f0e1046b81c40012993af4,
+        type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

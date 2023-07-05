@@ -23,7 +23,8 @@ public class AttackState : State
         attack = false;
         character.animator.applyRootMotion = true;
         timePassed = 0f;
-        character.animator.SetTrigger("Attack");
+        //character.animator.SetTrigger("Attack");
+        character.animator.SetBool("isAttacking", true);
         character.animator.SetFloat("speed",0f);
 
     }
@@ -35,6 +36,7 @@ public class AttackState : State
         if (attackAction.triggered)
         {
             attack = true;
+            character.animator.SetBool("isAttacking", true);
         }
         
     }
@@ -50,12 +52,14 @@ public class AttackState : State
         if (timePassed >= clipLenght / clipSpeed && attack)
         {
             stateMachine.ChangeState(character.attacking);
+            character.animator.SetBool("isAttacking", false);
         }
 
         if (timePassed >= clipLenght / clipSpeed)
         {
             stateMachine.ChangeState(character.combatting);
             character.animator.SetTrigger("move");
+            character.animator.SetBool("isAttacking", false);
         }
     }
 
