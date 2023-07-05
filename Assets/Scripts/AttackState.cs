@@ -36,6 +36,7 @@ public class AttackState : State
         {
             attack = true;
         }
+        
     }
 
     public override void LogicUpdate()
