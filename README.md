@@ -8,7 +8,6 @@ Takım "Confix" Unity 48
 - Aleyna Cankat: Scrum Master
 - Emirhan Topal: Product Owner
 - Veli Aliyev: Developer
-- Meltem Külcü: Bootcampe devam etmedi
 - Meltehan Uğuş: Developer
 
 ## Svalbardoom
