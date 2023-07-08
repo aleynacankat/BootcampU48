@@ -136,3 +136,96 @@ Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve
 
 **Sprint içinde tamamlanan puan**: Checkpoint hariç tüm taskler tamamlanmıştır. Tamamlanamayan Task diğer sprintte yapılacağı belirlenmiştir.
 ---
+
+# Kullanılan Assetler
+Procedural fire
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496
+
+Historic environment
+https://assetstore.unity.com/packages/3d/environments/historic/historic-environment-142116
+
+Flickering Light Effect
+https://assetstore.unity.com/packages/tools/particles-effects/flickering-light-effect-57324
+
+Campfires & Torches Models
+https://assetstore.unity.com/packages/3d/environments/campfires-torches-models-and-fx-242552
+
+Alpha Flashing UI (UI Shaders)
+https://assetstore.unity.com/packages/tools/gui/alpha-flashing-ui-ui-shaders-164360
+
+Little Enchant Mesh VFX
+https://assetstore.unity.com/packages/vfx/particles/little-enchant-mesh-vfx-247587
+
+Stylized Fantasy Sword (PBR)
+https://assetstore.unity.com/packages/3d/props/weapons/stylized-fantasy-sword-pbr-153642
+
+CITY package
+https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224
+
+Toon Gas Station
+https://assetstore.unity.com/packages/3d/environments/urban/toon-gas-station-155369
+
+Low Poly Fuel station
+https://assetstore.unity.com/packages/3d/props/low-poly-fuel-station-189903
+
+Futuristic Security Door
+https://assetstore.unity.com/packages/3d/props/interior/futuristic-security-door-182385
+
+Street Lamps
+https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-165658
+
+Countryside gas station
+https://assetstore.unity.com/packages/3d/environments/countryside-gas-station-132485
+
+Petal Particles - Cherry Petals
+https://assetstore.unity.com/packages/vfx/particles/petal-particles-cherry-petals-157869
+
+Star Pack - Advanced Sparkle
+https://assetstore.unity.com/packages/vfx/particles/star-pack-advanced-sparkle-system-185515
+
+Mobile Ready Bloom asset
+https://assetstore.unity.com/packages/2d/textures-materials/mobile-ready-bloom-asset-58230
+
+PBR Materials Sampler Pack
+https://assetstore.unity.com/packages/2d/textures-materials/pbr-materials-sampler-pack-40112
+
+Book - Page Curl
+https://assetstore.unity.com/packages/tools/animation/book-page-curl-55588
+
+Flashlight	
+https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
+
+Tool Icons and Blood Sprites
+https://assetstore.unity.com/packages/2d/gui/icons/tool-icons-and-blood-sprites-118526
+
+Sci Fi Gun
+https://assetstore.unity.com/packages/3d/props/guns/sci-fi-gun-162872
+
+Polygonal's Low-Poly Particle
+https://assetstore.unity.com/packages/vfx/particles/polygonal-s-low-poly-particle-pack-118355
+
+Custom Teleporter Pad Script
+https://assetstore.unity.com/packages/tools/custom-teleporter-pad-script-20098
+
+DL Fantasy RPG Effects
+https://assetstore.unity.com/packages/vfx/particles/dl-fantasy-rpg-effects-68246
+
+Lowpoly Medieval Skeleton
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/lowpoly-medieval-skeleton-free-medieval-fantasy-series-181883
+
+SciFantasy Sword Pack
+https://assetstore.unity.com/packages/3d/props/weapons/scifantasy-sword-pack-81202
+
+Particle Pack
+https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+
+Magic Effects FREE
+https://assetstore.unity.com/packages/vfx/particles/spells/magic-effects-free-247933
+
+Voxel Ancient Environment assets for free
+https://maxparata.itch.io/voxel-ancient-environment
+
+Simple Voxel Art Coins & more
+https://theodd1in.itch.io/simple-voxel-art-coins
+
+
