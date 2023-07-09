@@ -293,6 +293,7 @@ GameObject:
   - component: {fileID: 133032644}
   - component: {fileID: 133032646}
   - component: {fileID: 133032645}
+  - component: {fileID: 133032647}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -317,7 +318,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 68, y: 31.999939}
+  m_AnchoredPosition: {x: 53, y: 31.999939}
   m_SizeDelta: {x: 2048, y: 1152}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &133032645
@@ -358,6 +359,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 133032643}
   m_CullTransparentMesh: 1
+--- !u!95 &133032647
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 133032643}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 729a24d11ff3d4b1a99a3a9f09085f52, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &166021354
 GameObject:
   m_ObjectHideFlags: 0
@@ -375,7 +397,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &166021355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -398,8 +420,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Hikaye Devam\u0131 denemesi"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -429,7 +451,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -462,7 +484,7 @@ MonoBehaviour:
   m_margin: {x: -447.81415, y: 0, z: -194.07922, w: 79.83203}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
+  m_hasFontAssetChanged: 1
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &166021356
@@ -490,7 +512,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 98, y: -552}
+  m_AnchoredPosition: {x: 98, y: -518}
   m_SizeDelta: {x: 190.7661, y: 151.5735}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &659285563
@@ -677,8 +699,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Orion Hikaye
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
+  m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -708,7 +730,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -902,8 +924,8 @@ PlayableDirector:
     value: {fileID: 166021354}
   - key: {fileID: 3065721971551022206, guid: bb82e53560f56f04894465501c7c3432, type: 2}
     value: {fileID: 133032643}
-  - key: {fileID: 8772647780238767110, guid: bb82e53560f56f04894465501c7c3432, type: 2}
-    value: {fileID: 0}
+  - key: {fileID: -2913587769602638152, guid: bb82e53560f56f04894465501c7c3432, type: 2}
+    value: {fileID: 133032647}
   m_ExposedReferences:
     m_References:
     - 8b11f30eb952e62469c855f9280e18e3: {fileID: 1467379277}
