@@ -8,7 +8,7 @@ Takım "Confix" Unity 48
 - Aleyna Cankat: Scrum Master
 - Emirhan Topal: Product Owner
 - Veli Aliyev: Developer
-- Meltehan Uğuş: Developer
+- Metehan Uğuş: Developer
 
 ## Svalbardoom
 
