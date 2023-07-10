@@ -8,6 +8,9 @@ public class AttackState : State
     private float clipLenght;
     private float clipSpeed;
     private bool attack;
+
+    
+    
     
     
     public AttackState(Character _character, StateMachine _stateMachine) : base(_character, _stateMachine)
@@ -23,7 +26,6 @@ public class AttackState : State
         attack = false;
         character.animator.applyRootMotion = true;
         timePassed = 0f;
-        //character.animator.SetTrigger("Attack");
         character.animator.SetFloat("speed",0f);
 
     }

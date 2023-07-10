@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2214148012092228518}
   - component: {fileID: 2214148012093227366}
   - component: {fileID: 2214148012081917030}
+  - component: {fileID: 6897863574440860405}
   m_Layer: 0
   m_Name: Flashlight
   m_TagString: Untagged
@@ -33,7 +34,7 @@ Transform:
   m_Children:
   - {fileID: 4063208954581431544}
   m_Father: {fileID: 0}
-  m_RootOrder: 253
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: -90}
 --- !u!33 &2214148012092228518
 MeshFilter:
@@ -109,6 +110,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6897863574440860405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2214148012091301798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8666d408e2ff5c4abe938614ecae613, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _clip1: {fileID: 8300000, guid: 12f3fa1639785a8479b69ca981b29875, type: 3}
 --- !u!1001 &4063208954581560952
 PrefabInstance:
   m_ObjectHideFlags: 0
