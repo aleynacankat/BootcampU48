@@ -1336,7 +1336,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 100
+  _RestartButton: {fileID: 0}
   _healthBar: {fileID: 0}
+  sceneName: 
   hitParticle: {fileID: 0}
   ragdoll: {fileID: 0}
   currentHealth: 0
@@ -1437,7 +1439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2f63ea32815d50429aef545cdc82578, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSpeed: 4
+  playerSpeed: 2
   crouchSpeed: 2.5
   sprintSpeed: 8
   jumpHeight: 0.7
