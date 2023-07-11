@@ -19,11 +19,11 @@ public class AttackState : State
     public override void Enter()
     {
         base.Enter();
-        character.animator.SetBool("isAttacking",true);
+
         attack = false;
         character.animator.applyRootMotion = true;
         timePassed = 0f;
-        //character.animator.SetTrigger("Attack");
+        character.animator.SetTrigger("Attack");
         character.animator.SetFloat("speed",0f);
 
     }
@@ -36,7 +36,6 @@ public class AttackState : State
         {
             attack = true;
         }
-        
     }
 
     public override void LogicUpdate()
@@ -50,14 +49,12 @@ public class AttackState : State
         if (timePassed >= clipLenght / clipSpeed && attack)
         {
             stateMachine.ChangeState(character.attacking);
-            character.animator.SetBool("isAttacking",false);
         }
 
         if (timePassed >= clipLenght / clipSpeed)
         {
             stateMachine.ChangeState(character.combatting);
             character.animator.SetTrigger("move");
-            character.animator.SetBool("isAttacking",false);
         }
     }
 
