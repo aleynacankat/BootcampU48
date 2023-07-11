@@ -4,17 +4,13 @@ using System.Collections.Generic;
 using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Rendering;
-using UnityEngine.SceneManagement;
 
 public class HealthSystem : MonoBehaviour
 {
     public int maxHealth = 100;
-    [SerializeField] private GameObject _RestartButton;
     
     private Animator _animator;
     public HealthBar _healthBar;
-
-    public string sceneName;
     
     [SerializeField] private GameObject hitParticle;
     [SerializeField] private GameObject ragdoll;
@@ -24,8 +20,8 @@ public class HealthSystem : MonoBehaviour
     {
         _animator = GetComponent<Animator>();
         _healthBar.SetMaxHealth(maxHealth);
-        currentHealth = maxHealth;
-        // _RestartButton.SetActive(false);
+        currentHealth = maxHealth;  
+        
     }
     
 
@@ -33,6 +29,7 @@ public class HealthSystem : MonoBehaviour
     {
         currentHealth -= damageAmount;
         _healthBar.SetHealth(currentHealth);
+        
         _animator.SetTrigger("damage");
 
         if (currentHealth == 0)
@@ -45,8 +42,6 @@ public class HealthSystem : MonoBehaviour
     {
         Instantiate(ragdoll, transform.position, transform.rotation);
         Destroy(this.gameObject);
-        Debug.Log("öldün");
-        // _RestartButton.SetActive(true);
     }
 
     public void hitparticle(Vector3 hitPosition)
@@ -54,12 +49,4 @@ public class HealthSystem : MonoBehaviour
         GameObject hit = Instantiate(hitParticle, hitPosition, quaternion.identity);
         Destroy(hit,3f);
     }
-
-    // public void ButtonActionFonk()
-    // {
-    //     SceneManager.LoadScene(sceneName);
-    //     _RestartButton.SetActive(false);
-    // }
-
-    
 }

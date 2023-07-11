@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.93.4 commit date:2021-08-31, commit time:09:23, hash:b7205031cec4</authoring_tool>
+    </contributor>
+    <created>2022-01-16T13:56:27</created>
+    <modified>2022-01-16T13:56:27</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_effects>
+    <effect id="Purple_Dark-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <color sid="diffuse">0.01680738 0 0.009721221 1</color>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images/>
+  <library_materials>
+    <material id="Purple_Dark-material" name="Purple_Dark">
+      <instance_effect url="#Purple_Dark-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Platformer-5_001-mesh" name="Platformer-5.001">
+      <mesh>
+        <source id="Platformer-5_001-mesh-positions">
+          <float_array id="Platformer-5_001-mesh-positions-array" count="48">0.25 0.4999979 0.04999923 -0.1000003 1.624999 0.04999923 0.25 0.4999979 -0.04999923 -0.1000003 1.624999 -0.04999923 -0.1000003 1.774999 -0.04999923 0.1000003 1.624999 0.04999923 0.1000003 1.624999 -0.04999923 -0.25 1.624999 -0.04999923 -0.1000003 1.774999 0.04999923 -0.25 0.4999979 0.04999923 -0.25 0.4999979 -0.04999923 0.25 1.624999 0.04999923 0.25 1.624999 -0.04999923 -0.25 1.624999 0.04999923 0.1000003 1.774999 0.04999923 0.1000003 1.774999 -0.04999923</float_array>
+          <technique_common>
+            <accessor source="#Platformer-5_001-mesh-positions-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Platformer-5_001-mesh-normals">
+          <float_array id="Platformer-5_001-mesh-normals-array" count="18">0 0 1 0 0 -1 1 0 0 -1 0 0 0 -1 0 0 1 0</float_array>
+          <technique_common>
+            <accessor source="#Platformer-5_001-mesh-normals-array" count="6" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Platformer-5_001-mesh-map-0">
+          <float_array id="Platformer-5_001-mesh-map-0-array" count="168">0.7688923 7.20024e-5 0.6535912 0.8648324 0.499856 0.8648324 0.3844102 7.20024e-5 0.2691085 0.8648326 0.1153733 0.8648326 0.7690373 0.8648324 0.8459044 7.20024e-5 0.8459044 0.8648324 0.9230604 0.5384331 0.9999275 0.6537347 0.9230604 0.6537347 0.8460484 7.20024e-5 0.9229155 0.8648324 0.8460484 0.8648324 0.9999275 0.7691803 0.9230604 0.6538787 0.9999275 0.6538787 0.9230604 7.20024e-5 0.9999275 0.3844099 0.9230604 0.3844099 0.9229155 0.9802778 0.8460484 0.8649764 0.9229155 0.8649764 0.8459044 0.980278 0.7690373 0.8649764 0.8459044 0.8649764 0.9999275 0.5382896 0.9230604 0.3845542 0.9999275 0.3845542 0.3845544 0.8648324 0.3845544 7.20024e-5 0.499856 0.8648324 0.3845544 7.20024e-5 0.7688923 7.20024e-5 0.499856 0.8648324 0.7688923 7.20024e-5 0.7688923 0.8648324 0.6535912 0.8648324 0.6535912 0.8648324 0.6535912 0.980134 0.499856 0.980134 0.6535912 0.8648324 0.499856 0.980134 0.499856 0.8648324 7.20024e-5 0.8648326 7.20024e-5 7.20024e-5 0.1153733 0.8648326 7.20024e-5 7.20024e-5 0.3844102 7.20024e-5 0.1153733 0.8648326 0.3844102 7.20024e-5 0.3844102 0.8648326 0.2691085 0.8648326 0.2691085 0.8648326 0.2691085 0.980134 0.1153733 0.980134 0.2691085 0.8648326 0.1153733 0.980134 0.1153733 0.8648326 0.7690373 0.8648324 0.7690373 7.20024e-5 0.8459044 7.20024e-5 0.9230604 0.5384331 0.9999275 0.5384331 0.9999275 0.6537347 0.8460484 7.20024e-5 0.9229155 7.20024e-5 0.9229155 0.8648324 0.9999275 0.7691803 0.9230604 0.7691803 0.9230604 0.6538787 0.9230604 7.20024e-5 0.9999275 7.20024e-5 0.9999275 0.3844099 0.9229155 0.9802778 0.8460484 0.9802778 0.8460484 0.8649764 0.8459044 0.980278 0.7690373 0.980278 0.7690373 0.8649764 0.9999275 0.5382896 0.9230604 0.5382896 0.9230604 0.3845542</float_array>
+          <technique_common>
+            <accessor source="#Platformer-5_001-mesh-map-0-array" count="84" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Platformer-5_001-mesh-colors-Col" name="Col">
+          <float_array id="Platformer-5_001-mesh-colors-Col-array" count="336">0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1 0.1372549 0 0.0980392 1</float_array>
+          <technique_common>
+            <accessor source="#Platformer-5_001-mesh-colors-Col-array" count="84" stride="4">
+              <param name="R" type="float"/>
+              <param name="G" type="float"/>
+              <param name="B" type="float"/>
+              <param name="A" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Platformer-5_001-mesh-vertices">
+          <input semantic="POSITION" source="#Platformer-5_001-mesh-positions"/>
+        </vertices>
+        <triangles material="Purple_Dark-material" count="28">
+          <input semantic="VERTEX" source="#Platformer-5_001-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Platformer-5_001-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Platformer-5_001-mesh-map-0" offset="2" set="0"/>
+          <input semantic="COLOR" source="#Platformer-5_001-mesh-colors-Col" offset="3" set="0"/>
+          <p>0 0 0 0 5 0 1 1 1 0 2 2 10 1 3 3 3 1 4 4 6 1 5 5 11 2 6 6 2 2 7 7 12 2 8 8 5 2 9 9 15 2 10 10 14 2 11 11 10 3 12 12 13 3 13 13 7 3 14 14 8 3 15 15 3 3 16 16 1 3 17 17 9 4 18 18 2 4 19 19 0 4 20 20 6 5 21 21 11 5 22 22 12 5 23 23 7 5 24 24 1 5 25 25 3 5 26 26 4 5 27 27 14 5 28 28 15 5 29 29 13 0 30 30 9 0 31 31 1 0 32 32 9 0 33 33 0 0 34 34 1 0 35 35 0 0 36 36 11 0 37 37 5 0 38 38 5 0 39 39 14 0 40 40 8 0 41 41 5 0 42 42 8 0 43 43 1 0 44 44 12 1 45 45 2 1 46 46 6 1 47 47 2 1 48 48 10 1 49 49 6 1 50 50 10 1 51 51 7 1 52 52 3 1 53 53 3 1 54 54 4 1 55 55 15 1 56 56 3 1 57 57 15 1 58 58 6 1 59 59 11 2 60 60 0 2 61 61 2 2 62 62 5 2 63 63 6 2 64 64 15 2 65 65 10 3 66 66 9 3 67 67 13 3 68 68 8 3 69 69 4 3 70 70 3 3 71 71 9 4 72 72 10 4 73 73 2 4 74 74 6 5 75 75 5 5 76 76 11 5 77 77 7 5 78 78 13 5 79 79 1 5 80 80 4 5 81 81 8 5 82 82 14 5 83 83</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Portal_1" name="Portal_1" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 -4.37114e-8 -1 0 0 1 -4.37114e-8 0 0 0 0 1</matrix>
+        <instance_geometry url="#Platformer-5_001-mesh" name="Portal_1">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Purple_Dark-material" target="#Purple_Dark-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
