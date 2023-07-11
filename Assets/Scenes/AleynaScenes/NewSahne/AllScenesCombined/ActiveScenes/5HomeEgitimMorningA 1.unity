@@ -1045,6 +1045,73 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 637899535}
   m_CullTransparentMesh: 1
+--- !u!1 &638723859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 638723862}
+  - component: {fileID: 638723860}
+  - component: {fileID: 638723861}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &638723860
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638723859}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.9981313, y: 3.2481055, z: 1}
+  m_Center: {x: 0.062371403, y: -0.45622778, z: -0.0000000016228493}
+--- !u!114 &638723861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638723859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc192cfcad753d4592172d6c179d799, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 6BaseMorningForEgitim
+--- !u!4 &638723862
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 638723859}
+  m_LocalRotation: {x: -0.007221114, y: 0.14748932, z: 0.00036328175, w: 0.9890372}
+  m_LocalPosition: {x: -3.392, y: -0.645, z: 15.372}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &714097507
 GameObject:
   m_ObjectHideFlags: 0
@@ -5999,7 +6066,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8501646297923508689}
   m_LocalRotation: {x: -0, y: -0.9095024, z: -0, w: -0.41569886}
-  m_LocalPosition: {x: -3.3, y: -2.3, z: 13.5}
+  m_LocalPosition: {x: -2.09, y: -2.26, z: 12.45}
   m_LocalScale: {x: 0.30525, y: 0.30525, z: 0.30525}
   m_ConstrainProportionsScale: 1
   m_Children:
@@ -10629,7 +10696,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 394430465346394845}
   m_LocalRotation: {x: -0, y: -0.6381403, z: -0, w: 0.7699201}
-  m_LocalPosition: {x: -13.87, y: -2.3891623, z: -4.57}
+  m_LocalPosition: {x: -7.45, y: -2.3891623, z: -11.69}
   m_LocalScale: {x: 1.754818, y: 1.754818, z: 1.754818}
   m_ConstrainProportionsScale: 0
   m_Children:
