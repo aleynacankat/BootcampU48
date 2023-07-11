@@ -55470,6 +55470,73 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2088342161}
   m_Mesh: {fileID: -3190849011757953450, guid: 515a287a074a7b047bf7ce5b99e411a3, type: 3}
+--- !u!1 &2102235050
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2102235053}
+  - component: {fileID: 2102235052}
+  - component: {fileID: 2102235051}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &2102235051
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2102235050}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.8686073, y: 3.6318862, z: 1.707864}
+  m_Center: {x: -0.16119885, y: 0.33488283, z: 0.35393217}
+--- !u!114 &2102235052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2102235050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc192cfcad753d4592172d6c179d799, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: 15SvalbardInside
+--- !u!4 &2102235053
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2102235050}
+  m_LocalRotation: {x: 0.029024865, y: -0.68586874, z: -0.02560876, w: -0.7266952}
+  m_LocalPosition: {x: -1.389, y: 51.132, z: -5.517}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2105712242
 GameObject:
   m_ObjectHideFlags: 0
@@ -81210,7 +81277,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 100
+  _RestartButton: {fileID: 0}
   _healthBar: {fileID: 1581277099506452110}
+  sceneName: 
   hitParticle: {fileID: 1743637094903878, guid: 021a2f7a2c5bc4449b4c64a66a050e8c,
     type: 3}
   ragdoll: {fileID: 2700458626322632124, guid: f28b8146fa443f14f9d8dc0b5c72cde9, type: 3}
