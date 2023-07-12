@@ -163,15 +163,6 @@ Veli Aliyev (Developer),
 Meltehan Uğuş: (Developer)
 
 **Sprint Retrospective:**
-- Oyunun hikayesi revize edilmiştir.
-- Dialog sistemi eklenmiştir.
-- Karakter kamera takibi eklenmiştir.
-- Oyunda oynanacak olan alanların Level Designı tamamlanmıştır.
-- Collectible Itemlar belirlenmiştir.
-- Şifreli Kapı sistemi yapılmıştır.
-- Gravity Gun yapılmıştır.
-- Ultraviyole fener karaktere eklenmiştir.
-- Puzzle konusu belirlenip, mekanik levelda düzenlenmiştir.
 
 - Eğitim alanı level design eklenmiştir.
 - Sahneler hikaye mantığında sıralanıp eksik olan köyün yangın hali eklenmiştir.
@@ -184,14 +175,11 @@ Meltehan Uğuş: (Developer)
 - Videolu UI sistemi eklenmiştir.
 - Diyaloglar hikayeye uygun şekilde NPC'lere eklenmiştir.
 - Oyun videosu çekilmiştir ve proje tamamlanmıştır.
+- Sesler eklenmiştir.
   
 **Sprint Notları:**
-Sprint sürecinde karakter mekanikleri düzeltilirken ve level design yapılırken, GitHub'da 100 MB sınırı nedeniyle bazı conflictlerle karşılaşıldı. Ancak bu sorunlar çözüldü.
-Bu sprintte, ilk sprinte göre hikaye akışı ve oyunun bağlamı açısından bölüm mantıklarına yoğunlaşıldı.
-Her gün birbirimizle ilerleme konusunda toplantılar yapıldı ve neleri daha iyi yapabileceğimiz, geliştirebileceğimiz üzerine değerlendirmeler yapıldı.
-Sprint içinde tamamlanan puan, Checkpoint dışındaki tüm task'lerin tamamlandığı belirtildi. Tamamlanamayan task'lerin diğer sprintte yapılacağı kararlaştırıldı.
-Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve 3. Sprintte oyuncunun oynama süresini artırmaya odaklanılması gerektiği vurgulanmıştır. 
 
+3. Sprint sürecinde oyunu tamamlama ve hikaye bütünlüğü oluşturması açısından yapılan mekaniklerin mantıksal olarak sıralanması konusunda toplantılar yapılmıştır ve hikaye cutscene tasarımı ve oyunu herkesin anlayabileceği seviyeye getirebileceğimiz ipuçları belirlenmiştir. Birleştirme aşaması olduğu için conflictler ile karşılaşılıp çözme konusunda uzun vakitler harcanmıştır. 3. Sprint için tüm taskler tamamlanmış olup oyundaki buglar giderilmeye çalışılmıştır. Karakter hareketlerindeki sıkıntılar için değerlendirmeler yapılmıştır. Oyun bu aşamada tam anlamıyla bütünleşip, birleşmiştir ve video fikirleri araştırılmıştır. Oyuna sesler eklenmiştir.
 
 **Sprint içinde tamamlanan puan**: Checkpoint hariç tüm taskler tamamlanmıştır. Tamamlanamayan Task diğer sprintte yapılacağı belirlenmiştir.
 ---
