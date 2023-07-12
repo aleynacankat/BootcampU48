@@ -181,8 +181,9 @@ Meltehan Uğuş: (Developer)
 - Oyun girişi hikaye cutscene tasarlanıp, oyuna entegre edilmiştir.
 - Sahne başlangıcına kamera geçişleri eklenmiştir.
 - Pause menüsü eklenmiştir.
-- 
-- Puzzle konusu belirlenip, mekanik levelda düzenlenmiştir.
+- Videolu UI sistemi eklenmiştir.
+- Diyaloglar hikayeye uygun şekilde NPC'lere eklenmiştir.
+- Oyun videosu çekilmiştir ve proje tamamlanmıştır.
   
 **Sprint Notları:**
 Sprint sürecinde karakter mekanikleri düzeltilirken ve level design yapılırken, GitHub'da 100 MB sınırı nedeniyle bazı conflictlerle karşılaşıldı. Ancak bu sorunlar çözüldü.
