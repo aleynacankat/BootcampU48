@@ -26,7 +26,14 @@ public class ItemPickUp : MonoBehaviour
         
         if (inventory.InventorySystem.AddToInventory(ItemData, 1))
         {
-            Destroy(this.gameObject);
+            if (ItemData.ID == 0 && ItemData.DisplayName == "Seed")
+            {
+                Destroy(this.gameObject, 11f);
+            }
+            else
+            {
+                Destroy(this.gameObject);
+            }
         }
     }
 }
