@@ -144,9 +144,12 @@ Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve
 - **Sprint board update**: Sprint board screenshotları:
 - **Sprint3 içinde tamamlanması tahmin edilen puan**: (57 Puan)
 - **Puanlama Mantığı**: 3 Sprint Toplamı 123 Puan olarak belirlenniştir. 57 puanın hepsi tamamlanmıştır. (Sprint Boardda tasklerin üzerinde görünen High: 3 / Medium: 2 / Low: 1  mantığında puanlama yapılmıştır.)
-![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
-![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
-![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
+
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/7d0fcf3d-90d0-4f45-b883-a26c49c91aca)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/bacfdb14-e2b6-4c72-86f1-c98ffa98aa25)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/2c9e622b-279e-4d1c-b999-5937ce97dcaf)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/5554a175-dbdd-41aa-8eec-87a0256942b8)
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/40215b16-85f5-4101-8b63-8a53c1de44b4)
