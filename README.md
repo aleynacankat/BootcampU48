@@ -137,7 +137,8 @@ Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve
 
 # Sprint 3
 
-- **Daily Scrum**: Daily Scrum toplantıları 19.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint3 Günlük Whatsapp Konuşmaları[Sprint2_WhatsApp Chat - Bootcamp _ U48.zip](https://github.com/aleynacankat/BootcampU48/files/11930089/Sprint2_WhatsApp.Chat.-.Bootcamp._.U48.zip)
+- **Daily Scrum**: Daily Scrum toplantıları 19.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint3 Günlük Whatsapp Konuşmaları [WhatsApp Chat - Confix.zip](https://github.com/aleynacankat/BootcampU48/files/12031012/WhatsApp.Chat.-.Confix.zip)
+
  )
 
 
