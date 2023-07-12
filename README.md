@@ -86,7 +86,64 @@ Puanlama Sistemi: İlk Sprintte 16 puanlık backlogumuz vardı ve  24 puana kada
 
 - **Sprint board update**: Sprint board screenshotları:
 - **Sprint2 içinde tamamlanması tahmin edilen puan**: (50 Puan)
-- **Puanlama Mantığı**: 3 Sprint Toplamı 126 Puan olarak belirlenniştir. Sprint2'de 50 puanlık hedeften 47 puana ulaşılmıştır. Geriye tamamlanması gereken 55 puan kalmıştır. (Sprint Boardda tasklerin üzerinde görünen High: 3 / Medium: 2 / Low: 1  mantığında puanlama yapılmıştır.)
+- **Puanlama Mantığı**: 3 Sprint Toplamı 123 Puan olarak belirlenniştir. Sprint2'de 50 puanlık hedeften 47 puana ulaşılmıştır. Geriye tamamlanması gereken 57 puan kalmıştır. (Sprint Boardda tasklerin üzerinde görünen High: 3 / Medium: 2 / Low: 1  mantığında puanlama yapılmıştır.)
+![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
+![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
+![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/40215b16-85f5-4101-8b63-8a53c1de44b4)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/0be06104-2160-4440-b299-6b5100b380cb)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/96fc6a3a-480d-4e6c-b248-97a1ab2621e6)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ad89c186-e387-4442-9fff-d2459024fbcf)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/da3aefe5-487a-4402-839f-54e12e0e5a50)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/2fb57367-3e82-4878-8925-5d15a36f6941)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/3aaff19b-c489-4470-b140-eafb621eddb3)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/c45450e1-614e-41a4-9839-4a608af03042)
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/8c32f211-c376-4075-aaa7-d33732d6ac89)
+
+
+- **Sprint Review**:
+![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ff80581e-6514-43e9-84d1-9b055f78e1ea)
+
+Alınan kararlar: Sprint1'de belirlenen hikayenin konusu oyunun akışına uyması açısından kapsamı genişletilmiştir. Bu aşamada gerekli olan Level Designlar tasarlanmış ve gerekli mekanikler 4 takım elemanına paylaştırılmıştır.
+
+Sprint Review katılımcıları: 
+Aleyna Cankat(Developer,Level Design), 
+Emirhan Topal(Developer), 
+Veli Aliyev (Developer),
+Meltehan Uğuş: (Developer)
+
+**Sprint Retrospective:**
+- Oyunun hikayesi revize edilmiştir.
+- Dialog sistemi eklenmiştir.
+- Karakter kamera takibi eklenmiştir.
+- Oyunda oynanacak olan alanların Level Designı tamamlanmıştır.
+- Collectible Itemlar belirlenmiştir.
+- Şifreli Kapı sistemi yapılmıştır.
+- Gravity Gun yapılmıştır.
+- Ultraviyole fener karaktere eklenmiştir.
+- Puzzle konusu belirlenip, mekanik levelda düzenlenmiştir.
+
+**Sprint Notları:**
+Sprint sürecinde karakter mekanikleri düzeltilirken ve level design yapılırken, GitHub'da 100 MB sınırı nedeniyle bazı conflictlerle karşılaşıldı. Ancak bu sorunlar çözüldü.
+Bu sprintte, ilk sprinte göre hikaye akışı ve oyunun bağlamı açısından bölüm mantıklarına yoğunlaşıldı.
+Her gün birbirimizle ilerleme konusunda toplantılar yapıldı ve neleri daha iyi yapabileceğimiz, geliştirebileceğimiz üzerine değerlendirmeler yapıldı.
+Sprint içinde tamamlanan puan, Checkpoint dışındaki tüm task'lerin tamamlandığı belirtildi. Tamamlanamayan task'lerin diğer sprintte yapılacağı kararlaştırıldı.
+Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve 3. Sprintte oyuncunun oynama süresini artırmaya odaklanılması gerektiği vurgulanmıştır. 
+
+
+**Sprint içinde tamamlanan puan**: Checkpoint hariç tüm taskler tamamlanmıştır. Tamamlanamayan Task diğer sprintte yapılacağı belirlenmiştir.
+
+# Sprint 3
+
+- **Daily Scrum**: Daily Scrum toplantıları 19.00 aralığında belirlenmiştir. Saat 18.00'de müsait olanlar ile toplanıp neler yapılacağının değerlendirilmesi yapılmıştır: [Sprint3 Günlük Whatsapp Konuşmaları[Sprint2_WhatsApp Chat - Bootcamp _ U48.zip](https://github.com/aleynacankat/BootcampU48/files/11930089/Sprint2_WhatsApp.Chat.-.Bootcamp._.U48.zip)
+ )
+
+
+- **Sprint board update**: Sprint board screenshotları:
+- **Sprint3 içinde tamamlanması tahmin edilen puan**: (57 Puan)
+- **Puanlama Mantığı**: 3 Sprint Toplamı 123 Puan olarak belirlenniştir. 57 puanın hepsi tamamlanmıştır. (Sprint Boardda tasklerin üzerinde görünen High: 3 / Medium: 2 / Low: 1  mantığında puanlama yapılmıştır.)
 ![1](https://github.com/aleynacankat/BootcampU48/assets/98126435/879a5b98-a6c3-410f-8d36-c14ba89c4cb9)
 ![2](https://github.com/aleynacankat/BootcampU48/assets/98126435/88b8ac8e-883e-4a52-b043-67c58a6503d2)
 ![3](https://github.com/aleynacankat/BootcampU48/assets/98126435/e7089e01-e80b-4150-8225-515b32c4edf5)
