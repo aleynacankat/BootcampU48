@@ -10,9 +10,9 @@ Takım "Confix" Unity 48
 - Veli Aliyev: Developer
 - Metehan Uğuş: Developer
 
-## Svalbardoom
+## Timeshift Chronicles
 
---Svalbardoom--
+--Timeshift Chronicles--
 
 ## Product Backlog URL [ https://www.notion.so/66f13d8b6b1442969d080d0dc04c403d?v=252cbe7374d249f888816e552583b167&pvs=4 ]
 
