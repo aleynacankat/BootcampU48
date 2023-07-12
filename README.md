@@ -185,6 +185,8 @@ Meltehan Uğuş: (Developer)
 ---
 
 # Kullanılan Assetler
+Oyundaki tüm packler free olarak kullanılmıştır:
+
 Procedural fire
 https://assetstore.unity.com/packages/vfx/particles/fire-explosions/procedural-fire-141496
 
@@ -358,4 +360,10 @@ https://sketchfab.com/3d-models/low-poly-winter-scene-2ffe1ed449414cc184078dd1e2
 
 Winter Enviroment pack: 
 https://sketchfab.com/3d-models/terem-e215b6fd60ca48ddabaa77373f35176c
+
+Medieval Area Pack:
+https://felixstrefter.itch.io/medieval-voxel-assets
+
+Oyun video arka plan sesi:
+https://youtu.be/TKuEJeyz4rs
 
