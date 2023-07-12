@@ -155,9 +155,10 @@ Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve
 https://youtu.be/gpEvI7uQ9Nc
 
 - **Sprint Review**:
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ff80581e-6514-43e9-84d1-9b055f78e1ea)
+- 
+Alınan kararlar: Sprint2'de belirlenen hikayenin konusu oyunun akışına uyması açısından kapsamı genişletilmiştir. Bu aşamada gerekli olan Level Designlar tasarlanmış ve gerekli mekanikler 4 takım elemanına paylaştırılmıştır.
 
-Alınan kararlar: Sprint1'de belirlenen hikayenin konusu oyunun akışına uyması açısından kapsamı genişletilmiştir. Bu aşamada gerekli olan Level Designlar tasarlanmış ve gerekli mekanikler 4 takım elemanına paylaştırılmıştır.
+Sprint2 de yetiştirilemeyen taskler Sprint3'e aktarılıp bitirilmiştir. Sprintin bu aşamasında Level Designlarda hikayesel olarak yerleştirilecek NPC, karakter ve etkileşimşli objeler yerleştirilip, oyunun bitirilmesi için son dokunuşlar yapılmıştır ve proje başarı ile sonlandırılmıştır.
 
 Sprint Review katılımcıları: 
 Aleyna Cankat(Developer,Level Design), 
