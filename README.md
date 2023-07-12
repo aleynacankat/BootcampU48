@@ -154,11 +154,7 @@ Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve
 - **Ürün Durumu**: Video:
 https://youtu.be/gpEvI7uQ9Nc
 
-- **Sprint Review**:
-- 
-Alınan kararlar: Sprint2'de belirlenen hikayenin konusu oyunun akışına uyması açısından kapsamı genişletilmiştir. Bu aşamada gerekli olan Level Designlar tasarlanmış ve gerekli mekanikler 4 takım elemanına paylaştırılmıştır.
-
-Sprint2 de yetiştirilemeyen taskler Sprint3'e aktarılıp bitirilmiştir. Sprintin bu aşamasında Level Designlarda hikayesel olarak yerleştirilecek NPC, karakter ve etkileşimşli objeler yerleştirilip, oyunun bitirilmesi için son dokunuşlar yapılmıştır ve proje başarı ile sonlandırılmıştır.
+- **Sprint Review**: Alınan kararlar: Sprint2 de yetiştirilemeyen taskler Sprint3'e aktarılıp bitirilmiştir. Sprintin bu aşamasında Level Designlarda hikayesel olarak yerleştirilecek NPC, karakter ve etkileşimşli objeler yerleştirilip, oyunun bitirilmesi için son dokunuşlar yapılmıştır ve proje başarı ile sonlandırılmıştır.
 
 Sprint Review katılımcıları: 
 Aleyna Cankat(Developer,Level Design), 
@@ -177,6 +173,17 @@ Meltehan Uğuş: (Developer)
 - Ultraviyole fener karaktere eklenmiştir.
 - Puzzle konusu belirlenip, mekanik levelda düzenlenmiştir.
 
+- Eğitim alanı level design eklenmiştir.
+- Sahneler hikaye mantığında sıralanıp eksik olan köyün yangın hali eklenmiştir.
+- Çöl sahnesine iskelet savaş sistemi eklenmiştir.
+- NPC Idle eklenmiştir.
+- Diyalog sistemi diğer sahnelere eklenmiştir.
+- Oyun girişi hikaye cutscene tasarlanıp, oyuna entegre edilmiştir.
+- Sahne başlangıcına kamera geçişleri eklenmiştir.
+- Pause menüsü eklenmiştir.
+- 
+- Puzzle konusu belirlenip, mekanik levelda düzenlenmiştir.
+  
 **Sprint Notları:**
 Sprint sürecinde karakter mekanikleri düzeltilirken ve level design yapılırken, GitHub'da 100 MB sınırı nedeniyle bazı conflictlerle karşılaşıldı. Ancak bu sorunlar çözüldü.
 Bu sprintte, ilk sprinte göre hikaye akışı ve oyunun bağlamı açısından bölüm mantıklarına yoğunlaşıldı.
