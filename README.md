@@ -151,17 +151,8 @@ Oyuncunun oynayış süresini artıracak fikirler levellara aktarılmıştır ve
 ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/5554a175-dbdd-41aa-8eec-87a0256942b8)
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/40215b16-85f5-4101-8b63-8a53c1de44b4)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/0be06104-2160-4440-b299-6b5100b380cb)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/96fc6a3a-480d-4e6c-b248-97a1ab2621e6)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ad89c186-e387-4442-9fff-d2459024fbcf)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/da3aefe5-487a-4402-839f-54e12e0e5a50)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/2fb57367-3e82-4878-8925-5d15a36f6941)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/3aaff19b-c489-4470-b140-eafb621eddb3)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/c45450e1-614e-41a4-9839-4a608af03042)
-![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/8c32f211-c376-4075-aaa7-d33732d6ac89)
-
+- **Ürün Durumu**: Video:
+https://youtu.be/gpEvI7uQ9Nc
 
 - **Sprint Review**:
 ![image](https://github.com/aleynacankat/BootcampU48/assets/98126435/ff80581e-6514-43e9-84d1-9b055f78e1ea)
