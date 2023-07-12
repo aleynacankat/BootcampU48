@@ -227,4 +227,87 @@ https://maxparata.itch.io/voxel-ancient-environment
 Simple Voxel Art Coins & more
 https://theodd1in.itch.io/simple-voxel-art-coins
 
+City Pack: 
+https://maxparata.itch.io/isocyberpunkcity-monogon
+
+Isometric Dungeon Pack: 
+https://maxparata.itch.io/monogon-isometricdungeon
+
+Country side Pack: 
+https://maxparata.itch.io/counrty-side
+
+Desert Pack: 
+https://maxparata.itch.io/voxel-desert-town
+
+Mountains: 
+https://maxparata.itch.io/rocky-mountains
+
+Pirates Pack: 
+https://maxparata.itch.io/voxelpirates-monogon
+
+Voxel Shops Pack: 
+https://maxparata.itch.io/voxelshop
+
+Magic Portal Pack: 
+https://sketchfab.com/3d-models/magic-portal-dc447f04768a4bfe8932d976bd2b1677
+
+Explosions Pack: 
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/low-poly-fire-244190#content
+
+Log House Pack: 
+https://sketchfab.com/3d-models/stylized-log-house-595bc26ea0eb45359d3dd088200a7e25
+
+Trees Pack: 
+https://assetstore.unity.com/packages/3d/vegetation/nature-pack-low-poly-trees-bushes-210184
+
+Landscape Pack: 
+https://assetstore.unity.com/packages/3d/environments/landscapes/winter-zone-mini-107583
+
+Desert2 Pack: 
+https://sketchfab.com/3d-models/desert-planet-colony-day-4-final-3605caa8cfef4de987cce1daaa7bde38
+
+Dungeon Pack: 
+https://sketchfab.com/3d-models/dungeon-fe72a7f53d2f414581edb2117fb1b44a
+
+Dungeon 2 Pack: 
+https://sketchfab.com/3d-models/dungeon-greyscale-40f1e32382c040ceb199ad7f99b92952
+
+Training Pack: 
+https://sketchfab.com/3d-models/medieval-training-grounds-game-environment-fb33049c7eb948a8ba5ce7a33603b902
+
+Graveyard Pack: 
+https://sketchfab.com/3d-models/blood-blossom-grove-aa6b814c5c2e4438ad89177c152a51f0
+
+Forest Pack: 
+https://sketchfab.com/3d-models/mystical-forest-cartoon-7c61edc428a24b188633e526616a729c
+
+Lab Pack:
+https://assetstore.unity.com/packages/tools/modeling/undergroud-laboratory-generator-179509
+
+Tower Defense Pack:
+https://assetstore.unity.com/packages/3d/environments/winter-forest-low-poly-toon-battle-arena-tower-defense-pack-150432
+
+Woods Pack: 
+https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-woods-232818
+
+Voxel City Pack: 
+https://assetstore.unity.com/packages/3d/environments/urban/city-voxel-pack-136141
+
+Water Shader Pack: 
+https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449
+
+Snow Trees Pack: 
+https://assetstore.unity.com/packages/3d/vegetation/trees/snowy-low-poly-trees-76796
+
+Voxel Furniture Pack: 
+https://assetstore.unity.com/packages/3d/props/furniture/voxel-furniture-free-170365
+
+Voxel Farm Pack: 
+https://assetstore.unity.com/packages/3d/environments/medievox-farms-free-111231
+
+Winter House Pack: 
+https://sketchfab.com/3d-models/low-poly-winter-scene-2ffe1ed449414cc184078dd1e2882284
+
+Winter Enviroment pack: 
+https://sketchfab.com/3d-models/terem-e215b6fd60ca48ddabaa77373f35176c
 
