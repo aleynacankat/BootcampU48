@@ -181,7 +181,7 @@ Meltehan Uğuş: (Developer)
 
 3. Sprint sürecinde oyunu tamamlama ve hikaye bütünlüğü oluşturması açısından yapılan mekaniklerin mantıksal olarak sıralanması konusunda toplantılar yapılmıştır ve hikaye cutscene tasarımı ve oyunu herkesin anlayabileceği seviyeye getirebileceğimiz ipuçları belirlenmiştir. Birleştirme aşaması olduğu için conflictler ile karşılaşılıp çözme konusunda uzun vakitler harcanmıştır. 3. Sprint için tüm taskler tamamlanmış olup oyundaki buglar giderilmeye çalışılmıştır. Karakter hareketlerindeki sıkıntılar için değerlendirmeler yapılmıştır. Oyun bu aşamada tam anlamıyla bütünleşip, birleşmiştir ve video fikirleri araştırılmıştır. Oyuna sesler eklenmiştir.
 
-**Sprint içinde tamamlanan puan**: Checkpoint hariç tüm taskler tamamlanmıştır. Tamamlanamayan Task diğer sprintte yapılacağı belirlenmiştir.
+**Oyun Videosu**: (https://youtu.be/gpEvI7uQ9Nc)
 ---
 
 # Kullanılan Assetler
