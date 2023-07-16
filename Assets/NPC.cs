@@ -77,7 +77,7 @@ public class NPC : MonoBehaviour
             zeroText();
             if (SceneManager.GetActiveScene().name == "17Son")
             {
-                SceneManager.LoadScene("1HikayeCutscene1 1");
+                SceneManager.LoadScene("18BitisSahnesi");
             }
         }
     }
