@@ -107313,6 +107313,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: QuestInfo
+      value: 
+      objectReference: {fileID: 259855818455664608}
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: CanvasInventory
+      value: 
+      objectReference: {fileID: 9015913636664208994}
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: HealthBarCanvas
+      value: 
+      objectReference: {fileID: 9015913636664208995}
     - target: {fileID: 1960036248267923197, guid: 18b57ecef7327694aa9ba80268b1a779,
         type: 3}
       propertyPath: m_Pivot.x
@@ -158258,22 +158273,22 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 186.45
+      value: 259.36
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.112
+      value: 10.78
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 24.87
+      value: 14.06
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.115508914
+      value: 0.6523632
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
@@ -158283,7 +158298,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.99330646
+      value: -0.7579065
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
@@ -158298,7 +158313,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -193.266
+      value: -98.56
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0a566af747c329248bbe41e1a4b4191e,
         type: 3}
@@ -164829,7 +164844,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Kap\u0131 \u015Fifrelerini bul!\nTohumu al! "
+  m_Text: "Y\xFCzle\u015F"
 --- !u!1 &2449701053511528167
 GameObject:
   m_ObjectHideFlags: 0
@@ -166158,8 +166173,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El fenerini kullanabilirsin!\nHaberlere g\xF6z atmay\u0131 unutma!\n\u0130nsanlarla
-    sosyalle\u015F.\nGravity gun kullan! (Q-E)"
+  m_Text: Abin seni bekliyor.
 --- !u!222 &7930904555268692818
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -166700,3 +166714,15 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64ce471a449092d44bb22a3b80caf301, type: 3}
+--- !u!1 &9015913636664208994 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2926481723757190193, guid: 64ce471a449092d44bb22a3b80caf301,
+    type: 3}
+  m_PrefabInstance: {fileID: 9015913636664208993}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9015913636664208995 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 338089168811859458, guid: 64ce471a449092d44bb22a3b80caf301,
+    type: 3}
+  m_PrefabInstance: {fileID: 9015913636664208993}
+  m_PrefabAsset: {fileID: 0}

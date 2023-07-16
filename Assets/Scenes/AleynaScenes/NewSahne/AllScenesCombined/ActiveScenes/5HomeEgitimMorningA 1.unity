@@ -131,6 +131,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: QuestInfo
+      value: 
+      objectReference: {fileID: 1905129552142429044}
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: CanvasInventory
+      value: 
+      objectReference: {fileID: 2075120082419935419}
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: HealthBarCanvas
+      value: 
+      objectReference: {fileID: 2220898580689751834}
     - target: {fileID: 1960036248267923197, guid: 18b57ecef7327694aa9ba80268b1a779,
         type: 3}
       propertyPath: m_Pivot.x
@@ -11638,7 +11653,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Kap\u0131 \u015Fifrelerini bul!\nTohumu al! "
+  m_Text: "Annen ile konu\u015F."
 --- !u!224 &4116290953149277865
 RectTransform:
   m_ObjectHideFlags: 0
@@ -18846,8 +18861,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El fenerini kullanabilirsin!\nHaberlere g\xF6z atmay\u0131 unutma!\n\u0130nsanlarla
-    sosyalle\u015F.\nGravity gun kullan! (Q-E)"
+  m_Text: "Annene yard\u0131mc\u0131 oldun, yan\u0131na git ve toplad\u0131klar\u0131n\u0131
+    ona teslim et!"
 --- !u!1 &8395525290125413742
 GameObject:
   m_ObjectHideFlags: 0

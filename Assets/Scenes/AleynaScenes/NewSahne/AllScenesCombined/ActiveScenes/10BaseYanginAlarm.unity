@@ -60992,6 +60992,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: QuestInfo
+      value: 
+      objectReference: {fileID: 2835263156812582387}
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: CanvasInventory
+      value: 
+      objectReference: {fileID: 9015913636664208994}
+    - target: {fileID: 251955498585455799, guid: 18b57ecef7327694aa9ba80268b1a779,
+        type: 3}
+      propertyPath: HealthBarCanvas
+      value: 
+      objectReference: {fileID: 9015913636664208995}
     - target: {fileID: 1960036248267923197, guid: 18b57ecef7327694aa9ba80268b1a779,
         type: 3}
       propertyPath: m_Pivot.x
@@ -164239,7 +164254,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Kap\u0131 \u015Fifrelerini bul!\nTohumu al! "
+  m_Text: "Tohumlar \xE7al\u0131nd\u0131!\nPortala ula\u015F."
 --- !u!1 &377395880438473972
 GameObject:
   m_ObjectHideFlags: 0
@@ -165355,8 +165370,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "El fenerini kullanabilirsin!\nHaberlere g\xF6z atmay\u0131 unutma!\n\u0130nsanlarla
-    sosyalle\u015F.\nGravity gun kullan! (Q-E)"
+  m_Text: "Kutsal a\u011Faca ula\u015Fman gerekiyor, e\u011Fitim alan\u0131na gitmelisin."
 --- !u!222 &5391910467048182081
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -165777,3 +165791,15 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 64ce471a449092d44bb22a3b80caf301, type: 3}
+--- !u!1 &9015913636664208994 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2926481723757190193, guid: 64ce471a449092d44bb22a3b80caf301,
+    type: 3}
+  m_PrefabInstance: {fileID: 9015913636664208993}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &9015913636664208995 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 338089168811859458, guid: 64ce471a449092d44bb22a3b80caf301,
+    type: 3}
+  m_PrefabInstance: {fileID: 9015913636664208993}
+  m_PrefabAsset: {fileID: 0}
