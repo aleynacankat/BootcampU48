@@ -7,9 +7,10 @@ using UnityEngine.SceneManagement;
 public class LoadScene : MonoBehaviour
 {
     public string sceneName;
-    public void LoadSceneFonk(string scene_name)
+  
+    public void LoadSceneFonk(string sceneName)
     {
-        SceneManager.LoadScene(scene_name);
+        SceneManager.LoadScene(sceneName);
     }
 
     private void OnTriggerEnter(Collider other)
